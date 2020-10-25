@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: futura md bt; 
+}
+body{
+    /* background-image: url("Heritage/Images/taj-mahal-bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; */
+}
+
+#Top_head{
+    width: 100%;
+    height: 800px;
+    background-image: url("Links_practice/Images/taj-mahal-bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+}
+/* top menu bar */
+#menu_bar{
+    float: right;
+    margin-top: 30px;
+    margin-right: 30px;
+    padding: 15px 0;
+    background-color: rgba(255, 255, 255, 0.279);
+}
+#menu_bar a{
+    font-size: 18px;
+    font-family: futura bk bt;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 15px 20px;
+    /* border: 1px solid white; */
+}
+#menu_bar a:hover{
+    background-color: rgba(230, 230, 230, 0.85);
+}
+
+/* Side heading section */
+#main_P{
+    float: left;
+    margin-top: 550px;
+    width: 430px;
+    /* border: 1px solid white; */
+}
+#main_P .head_p{
+    background-color: rgba(255, 255, 255, 0.265);
+    height: auto;
+    border-bottom: 2px solid white;
+}
+#main_P .head_p p{
+    font-size: 60px;
+    color: white;
+    margin-left: 155px;
+}
+#main_P pre{
+    font-size: 35px;
+    color: white;
+    margin-left: 70px;
+    margin-top: 10px;
+    /* border: 1px solid white; */
+}
+
+#bottom_img{
+    float: right;
+    margin-top: 450px;
+    margin-right: 10px;
+}
+#bottom_img div{
+    height: 200px;
+    float: right;
+    margin: 0 25px;
+    color: white;
+    font-size: 18px;
+}
+#bottom_img .bg_2{
+    background-image: url("Heritage/Images/Taj\ mahal\ top\ corner.jpg");
+    background-size: 266.66px, 200px;
+    background-repeat: no-repeat;
+    width: 266.66px;
+}
+#bottom_img .bg_1{
+    background-image: url("Heritage/Images/Taj\ mahal\ far\ view.jpg");
+    background-size: 299.77px, 200px;
+    background-repeat: no-repeat;
+    width: 299.66px;
+}
+#bottom_img a{
+    float: right;
+}
+#bottom_img div p{
+    float: left;
+    margin-top: 160px;
+    margin-left: 20px;
+    padding: 5px;
+}
+#bottom_img div p:hover{
+    background-color: rgba(255, 255, 255, 0.300);
+}
+
+#center_div{
+    background-color: rgb(228, 228, 228);
+    float: left;
+    width: 100%;
+}
+#Sec_taj{
+    float: left;
+    font-size: 20px;
+    margin-left: 13%;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    background-color: rgb(201, 201, 201);
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    padding: 20px;
+    color: rgb(52, 52, 52);
+}
+#Sec_taj div{
+    float: left;
+    width: 550px;
+    padding: 10px;
+}
+p#center_txt{
+    text-align: center;
+    font-size: 35px;
+    padding: 10px 0;
+    color: rgb(69, 69, 69);
+    float: left;
+    width: 100%;
+}
+#center_txt1{
+    text-align: center;
+    font-size: 35px;
+    padding-bottom: 10px;
+    color: rgb(69, 69, 69);
+    float: left;
+    width: 100%;
+}
+#Sec_taj img{
+    width: 100%;
+    float: left;
+}
+
+#Bottom_link{
+    background-color:  rgb(182, 182, 182);
+    float: right;
+    width: 100%;
+    padding: 10px 0;
+}
+#target_top{
+    float: right;
+    background-color: rgba(0, 0, 0, 0.381);
+    color: white;
+    background-attachment: fixed;
+    margin-right: 10px;
+}
+#target_top a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    padding: 10px 20px;
+    float: left;
+}
+#target_top a:hover{
+    background-color: rgba(0, 0, 0, 0.694);
+}
